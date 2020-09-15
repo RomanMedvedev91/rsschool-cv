@@ -26,9 +26,9 @@ While learning, I've gained strong knowledge of basic web development cycle from
 
 **EDUCATION**
 
-Gubkin Russian State University of Oil and Gas (former Moscow State Academy of Oil and Gas)
-Oil adn gas fields development and operation.
+Gubkin Russian State University of Oil and Gas  
+Faculty: Oil and gas fields development and operation.
 
 **LANGUAGES**
 
-English B2, IELS 6,0.
+English B2, IELTS 6,0.

@@ -17,7 +17,7 @@ HTML5, CSS 3, JavaScript, ES6, Bootstrap 4, MongoDB, Express, REST API.
 **EXPERIENCE**
 
 While learning, I've gained strong knowledge of basic web development cycle from scratch to deployment my own web-site.  
-GitHub: *https://github.com/RomanMedvedev91/*
+**GitHub**: *https://github.com/RomanMedvedev91/*
 
 **Courses:**
 

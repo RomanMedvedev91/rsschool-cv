@@ -12,7 +12,7 @@ I have been learning front and back -end since April, 2020. I enjoy learning new
 
 **SKILLS**
 
-HTML5, CSS 3, JavaScript, ES6, Bootstrap 4, MongoDB, Express, REST API.
+HTML5, CSS 3, JavaScript, ES6, Bootstrap 4, NodeJS, MongoDB, Express, REST API.
 
 **EXPERIENCE**
 
